@@ -1,3 +1,14 @@
+body {
+    height: 100vh;
+}
+
+.page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
 .head {
     background: #fc0;
     height: 100px;
